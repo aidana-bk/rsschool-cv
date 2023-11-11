@@ -99,9 +99,9 @@ func safeSpot(matrix [][]int, r, c int) bool{
 
 ### Courses and Certifications:
 
-- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
-- Huawei Certification for completion "Datacom"
-- Huawei Certification "Huawei Certified Academy Instructor"
+- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)<br>
+- Huawei Certification for completion "Datacom" ![Huawei Datacom](/certificats/Certificate1.png)<br>
+- Huawei Certification "Huawei Certified Academy Instructor"![Huawei Instructor](/certificats/Certificate2.png)<br>
 
 ---
 
