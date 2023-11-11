@@ -1,1 +1,1 @@
-# rsschool-cv
+https://AidanaNBK.github.io/rsschool-cv/cv
